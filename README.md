@@ -3,10 +3,21 @@ Let's Learn Python with Me, A Modern Python Helpful Repo for Everyone!!
 
 ## Topics Covered
 
-### Basic > Syntax
+### Basic > Syntax, Variable & DataTypes
 - Indentation
 - Semicolon Usage
 - Variables
+- Casting (Type Conversion)
+- Generate Random Numbers
+
+### Basic > Strings and Methods
+- Strings
+- Slicing
+- Modify
+- Concate
+- Methods
+- Format
+- Str Arrays
 
 
 ---
